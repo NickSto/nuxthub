@@ -3,11 +3,4 @@ export default {
     '@nuxt/content'
   ],
   components: true,
-  content: {
-    markdown: {
-      remarkPlugins: [
-        'remark-attr'
-      ]
-    }
-  }
 }
