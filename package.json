@@ -9,5 +9,8 @@
   "dependencies": {
     "@nuxt/content": "^1.13.1",
     "nuxt": "^2.15.2"
+  },
+  "devDependencies": {
+    "ignore-loader": "^0.1.2"
   }
 }

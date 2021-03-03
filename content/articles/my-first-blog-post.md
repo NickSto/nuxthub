@@ -37,3 +37,15 @@ This is some more info
 ## This is another heading
 
 This is some more info
+
+# Image tests
+
+![alt text](bwa_059.png)
+
+![alt text](./bwa_059.png)
+
+<img src="bwa_059.png"/>
+
+<img src="./bwa_059.png"/>
+
+<v-img src="/articles/bwa_059.png" alt="md image"/>
